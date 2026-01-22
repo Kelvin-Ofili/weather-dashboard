@@ -144,11 +144,15 @@ I used `while` loops, `case` statements, and input normalization to enforce vali
 
 ---
 
-## 👤 Author
-
-**Kelvin Ofili**
 
 This project was built as part of a terminal scripting exercise to demonstrate practical shell scripting skills.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4af573e5-2090-4c0f-993e-ebac74b7edd9" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2fac15e-b632-484e-adb3-a9c7a4f561b2" />
+
+Vimeo link: https://vimeo.com/1157187560?share=copy&fl=sv&fe=ci
+
+## 👤 Author
+
+**Kelvin Ofili**
+
 
